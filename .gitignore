@@ -1,0 +1,6 @@
+*.zip
+*.apk
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
